@@ -8,7 +8,7 @@ aiofiles==25.1.0
 # RAG: vector store, embeddings, LLM
 chromadb==1.5.9
 sentence-transformers==5.1.2
-openai==2.48.0
+ollama==0.6.3
 
 # Document loading
 pypdf==6.18.1
